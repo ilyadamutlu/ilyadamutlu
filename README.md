@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm İlayda Mutlu</h1>
 
-<h3 align="center">🎓 Computer Programming Graduate</h3>
+<h3 align="center">🎓 Ege University - Computer Programming Graduate</h3>
 <h3 align="center">💻 Software Developer (Python, SQL, Web Development) | Pre-Accounting Experience (MikroJump)</h3>
 <h3 align="center">📍 Based in Türkiye</h3>
 
