@@ -40,9 +40,8 @@ This background helps me better understand financial workflows, business process
 - Document tracking, stock & invoice processes
 
 ### 📊 Office Tools
-- Microsoft Excel (Advanced)  
+- Microsoft Excel  
 - Word, PowerPoint  
-- Access
 
 ---
 
